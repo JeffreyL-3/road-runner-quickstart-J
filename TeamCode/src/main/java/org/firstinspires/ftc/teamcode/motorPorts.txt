@@ -1,0 +1,4 @@
+A=rightFront=3
+B=rightBack=1
+C=backLeft=0
+D=frontLeft=2
